@@ -15,6 +15,10 @@ public class Mysetup {
 	}
 	
 	@Test
-	public void firsttest(){}
+	public void firsttest(){
+		
+		System.out.println("hello");
+	}
+	
 
 }
